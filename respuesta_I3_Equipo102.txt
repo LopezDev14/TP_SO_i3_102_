@@ -1,1 +1,16 @@
 
+a) ¿como queda el master despues de estos cambios?
+queda con todo junto: el README, datos.txt con los datos de los tres, los
+archivos CPUGamma.txt, CPUAlfa.txt y CPUBeta.txt, y beta.txt con lo que
+agregaron Gamma y Alfa. (En nuestro repo la rama se llama main, no master.)
+
+b) beta pudo ver todos los cambios que se realizaron?
+si, haciendo git fetch --all y después git log --all --oneline --graph se
+ven todas las ramas y los commits de cada uno.
+
+c) que debio hacer en el punto 5 para hacer el merge?
+git pull
+git switch main
+git pull
+git merge chavez
+git push origin main
