@@ -1,0 +1,46 @@
+Lautaro Matias Lopez
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::df1e:786d:3471:3f21%17
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2803:9800:9033:a32c:39b9:de33:c263:c488
+   Direcci¢n IPv6 temporal. . . . . . : 2803:9800:9033:a32c:59b:e84c:a52d:4c67
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::9372:700d:85a:11a4%16
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.100.20
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%16
+                                       192.168.100.1
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2001:0:14c9:cd04:388b:d336:45f2:8d2e
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::388b:d336:45f2:8d2e%12
+   Puerta de enlace predeterminada . . . . . : 
+Thu Nov 19 11:24:39     2026
