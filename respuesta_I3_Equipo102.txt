@@ -1,3 +1,5 @@
+Lautaro Matias Lopez
+Lautaro Orlando Chavez
 
 a) ¿como queda el master despues de estos cambios?
 queda con todo junto: el README, datos.txt con los datos de los tres, los
@@ -14,3 +16,27 @@ git switch main
 git pull
 git merge chavez
 git push origin main
+
+d) ¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+no, quedan con su historial anterior salvo que se les haga merge o rebase desde main 
+(trabajamos entre dos integrantes: ALFA y BETA)
+
+e) Detalle (explique) los problemas que tuvieron al hacer el merge? 
+tuvimos que adaptar los roles a dos integrantes y coordinar los cambios en las ramas y merges hacia main,
+resolviendo conflictos o diferencias al editar archivos compartidos.
+
+f) ¿que debio hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git fetch origin
+git checkout <rama>
+# editar beta.txt (nombre, apellido, datos de red y hora)
+git add beta.txt
+git commit -m "Modifica beta.txt"
+git push
+
+G) ¿que debio hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git fetch origin
+git checkout lopez
+# editar beta.txt (nombre, apellido, datos de red y hora)
+git add beta.txt
+git commit -m "Agrega datos de Alfa en beta.txt"
+git push
