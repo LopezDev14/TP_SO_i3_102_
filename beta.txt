@@ -44,3 +44,9 @@ Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
    V¡nculo: direcci¢n IPv6 local. . . : fe80::388b:d336:45f2:8d2e%12
    Puerta de enlace predeterminada . . . . . : 
 Thu Nov 19 11:24:39     2026
+
+
+Lautaro Chavez
+192.168.9.253
+11:30
+
